@@ -10,7 +10,7 @@
 </p>
 
 
-![Capa do Projeto](https://i.imgur.com/tR16pyr.jpg width="300px")
+![Capa do Projeto](https://i.imgur.com/tR16pyr.jpg)
 
 
 </p>
