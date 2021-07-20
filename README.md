@@ -1,10 +1,10 @@
 <p align="center">
-<img src="https://imgur.com/a/Xy26raT" width="300px">
+<img src="https://i.imgur.com/4rVsYWf.jpeg" width="300px">
   
 <br>
   
 <p align="center">
-  <a href="#user-content-o-que-é-o-soulskut">Sobre</a> •
+  <a href="#user-content-o-que-é-o-LOUKUT">Sobre</a> •
  <a href="#user-content-funcionalidades">Funcionalidades</a> • 
  <a href="#user-content-build-e-run">Como executar</a>
 </p>
@@ -21,13 +21,13 @@
 
 
 
-## O que é o SoulsKut?
+## O que é o LOUKUT?
 
 <p align="center">
-<img src="https://i.imgur.com/1SbDXF7.png">
+<img src="https://i.imgur.com/4rVsYWf.jpeg">
 </p align="justify">
 
-O LOUKUT foi um projeto desenvolvido durante a Imersão React da Alura. O projeto original se chamava "Alurakut", uma espécie de paródia do antigo orkut. Decidi então fazer minha própria versão, relacionada a uma das minhas séries de jogos favoritas, que é a série Souls. Meu foco é front-end e não design, então fiz uma logo utilizando uma fonte minimamente parecida com a logo de Dark Souls, e segui uma paleta de cores inspirada no jogo. O projeto foi feito utilizando React e Next.js.
+O LOUKUT foi um projeto desenvolvido durante a Imersão React da Alura. O projeto original se chamava "Alurakut", uma espécie de paródia do antigo orkut. Decidi então fazer minha própria versão, relacionada a uma das minhas séries de jogos favoritas, que é a série Souls. Meu foco é front-end e não design. O projeto foi feito utilizando React e Next.js.
 
 Quer ver o site no ar? [Clique aqui!](https://soulskut.vercel.app)
 
@@ -39,7 +39,7 @@ Quer ver o site no ar? [Clique aqui!](https://soulskut.vercel.app)
 
 <p align="center">
   
-<img src="/src/assets/background/gifsoulskut.gif" style="max-width: 150%">
+<img src="/src/assets/background/ORKUT.gif" style="max-width: 150%">
 
 </p>
 
