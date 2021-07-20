@@ -9,9 +9,9 @@
  <a href="#user-content-build-e-run">Como executar</a>
 </p>
 
-
-![Capa do Projeto](https://i.imgur.com/tR16pyr.jpg)
-
+<p align="center">
+![Capa do Projeto](https://i.imgur.com/tR16pyr.jpg width="300px")
+</p>
 
 </p>
 
