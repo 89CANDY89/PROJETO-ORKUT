@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/1SbDXF7.png" width="300px">
+<img src="https://imgur.com/a/Xy26raT" width="300px">
   
 <br>
   
@@ -10,7 +10,7 @@
 </p>
 
 
-![Capa do Projeto](https://i.imgur.com/QoPiqRr.png)
+![Capa do Projeto](https://i.imgur.com/tR16pyr.jpg)
 
 
 </p>
@@ -27,7 +27,7 @@
 <img src="https://i.imgur.com/1SbDXF7.png">
 </p align="justify">
 
-O SoulsKut foi um projeto desenvolvido durante a Imersão React da Alura. O projeto original se chamava "Alurakut", uma espécie de paródia do antigo orkut. Decidi então fazer minha própria versão, relacionada a uma das minhas séries de jogos favoritas, que é a série Souls. Meu foco é front-end e não design, então fiz uma logo utilizando uma fonte minimamente parecida com a logo de Dark Souls, e segui uma paleta de cores inspirada no jogo. O projeto foi feito utilizando React e Next.js.
+O LOUKUT foi um projeto desenvolvido durante a Imersão React da Alura. O projeto original se chamava "Alurakut", uma espécie de paródia do antigo orkut. Decidi então fazer minha própria versão, relacionada a uma das minhas séries de jogos favoritas, que é a série Souls. Meu foco é front-end e não design, então fiz uma logo utilizando uma fonte minimamente parecida com a logo de Dark Souls, e segui uma paleta de cores inspirada no jogo. O projeto foi feito utilizando React e Next.js.
 
 Quer ver o site no ar? [Clique aqui!](https://soulskut.vercel.app)
 
@@ -68,10 +68,10 @@ $ yarn start
 
 ---
 
-[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg?style=flat-square)](https://github.com/Vitor-Tx/SoulsKut/blob/master/LICENSE)
+[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg?style=flat-square)](https://github.com/LICENSE)
 
 
-Feito por Vitor Teixeira. [Entre em contato!](https://www.linkedin.com/in/vitor-teixeira-eof/)
+ [Entre em contato!](https://www.linkedin.com)
 
 
 
