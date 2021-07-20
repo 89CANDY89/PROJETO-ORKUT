@@ -11,8 +11,7 @@
 
 
 <p align="center">
-<img src="https://i.imgur.com/4rVsYWf.jpeg" width="300px">
-![Capa do Projeto]<img src="https://i.imgur.com/tR16pyr.jpg" width="300px">
+<img src="https://i.imgur.com/tR16pyr.jpg" width="300px">
 
 
 </p>
