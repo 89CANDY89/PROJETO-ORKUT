@@ -10,7 +10,7 @@ export default function LoginScreen() {
         <main style={{ display: 'flex', flex: 1, alignItems: 'center', justifyContent: 'center' }}>
             <div className="loginScreen">
                 <section className="logoArea">
-                    <img src={require('./../src/assets/background/soulsKut.png').default.src} />
+                    <img src={require('./../src/assets/background/LOLKUT.png').default.src} />
 
                     <p><strong>Conecte-se</strong> aos seus amigos e familiares usando recados e mensagens instantâneas</p>
                     <p><strong>Conheça</strong> novas pessoas através de amigos de seus amigos e comunidades</p>
