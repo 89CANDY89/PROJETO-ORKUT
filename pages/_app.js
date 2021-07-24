@@ -10,7 +10,7 @@ const GlobalStyle = createGlobalStyle`
   }
   body {
     font-family: sans-serif;
-    background-image: url("https://images4.alphacoders.com/100/thumb-1920-1004017.png");
+    background-image: url("https://i.imgur.com/SY8aUJw.png");
   }
   #__next {
     display: flex;
