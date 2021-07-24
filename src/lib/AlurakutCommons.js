@@ -27,7 +27,7 @@ export function AlurakutMenu({ githubUser }) {
     return (
         <AlurakutMenu.Wrapper isMenuOpen={isMenuOpen}>
             <div className="container">
-                <AlurakutMenu.Logo src={require('./../assets/background/soulsKut.png').default.src} />
+                <AlurakutMenu.Logo src={require('./../assets/background/LOLKUT.png').default.src} />
 
                 <nav style={{ flex: 1 }}>
                     {[{ name: 'Inicio', slug: '/' }, { name: 'Amigos', slug: '/amigos' }, { name: 'Comunidades', slug: '/comunidades' }].map((menuItem) => (
