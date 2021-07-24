@@ -30,7 +30,7 @@
 
 O LOUKUT foi um projeto desenvolvido durante a Imersão React da Alura. O projeto original se chamava "Alurakut", uma espécie de paródia do antigo orkut. Decidi então fazer minha própria versão, relacionada a uma das minhas séries de jogos favoritas, que é a série Souls. Meu foco é front-end e não design. O projeto foi feito utilizando React e Next.js.
 
-Quer ver o site no ar? [Clique aqui!](https://soulskut.vercel.app)
+Quer ver o site no ar? [Clique aqui!](https://projeto-orkut-fpxt228yk-89candy89.vercel.app/login)
 
 
 ---
